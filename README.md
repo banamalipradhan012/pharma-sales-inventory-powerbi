@@ -115,3 +115,10 @@ The dashboard enables users to:
 
 ## Project Outcome
 This project demonstrates how pharmaceutical sales and inventory data can be transformed into actionable business insights using modern BI practices. The dashboard provides a scalable foundation for revenue tracking, inventory optimization, and performance management.
+
+
+
+## Author
+**Banamali Pradhan** — Aspiring Data Analyst  
+Transitioning from Pharmaceutical Industry to Data Analytics  
+[LinkedIn Profile](https://www.linkedin.com/in/banamali-pradhan)
