@@ -1,5 +1,10 @@
 # 💊 Pharmaceutical Sales & Inventory Analytics – Power BI
 
+<p align="center">
+  <img src="cover page/pharma_sales_background.jpg" alt="Pharmaceutical Sales & Inventory Analytics">
+</p>  
+
+
 ## Project Overview
 This project is an end-to-end Business Intelligence solution built using Microsoft Power BI to analyze pharmaceutical sales, inventory levels, and expiry risk. It covers the complete BI lifecycle — from raw data ingestion to a fully interactive, decision-ready dashboard.
 
